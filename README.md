@@ -39,12 +39,12 @@
 5. Поместить в одну папку:
    - Веса моделей, в подпапку **weights**.
    - Ваш файл **.csv**.
-   - Скрипт **predict.py**.
+   - Ноутбук **predict.ipynb**.
    
 6. Запустить программу:
 
     ```bash
-    python predict.py
+    python predict.ipynb
     ```
 
 ---
